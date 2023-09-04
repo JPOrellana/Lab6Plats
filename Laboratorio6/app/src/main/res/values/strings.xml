@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">laboratorio6</string>
+    <string name="art10_name">Florero con margaritas y amapolas</string>
+    <string name="art10_year">1890</string>
+    <string name="art10_author">Vincent van Gogh</string>
+    <string name="art1_author">Vincent van Gogh</string>
+    <string name="art2_author">Vincent van Gogh</string>
+    <string name="art3_author">Vincent van Gogh</string>
+    <string name="art4_author">Vincent van Gogh</string>
+    <string name="art5_author">Vincent van Gogh</string>
+    <string name="art6_author">Vincent van Gogh</string>
+    <string name="art7_author">Vincent van Gogh</string>
+    <string name="art8_author">Vincent van Gogh</string>
+    <string name="art9_author">Vincent van Gogh</string>
+    <string name="art1_name">Autorretrato</string>
+    <string name="art1_year">1889</string>
+    <string name="art2_name">Terraza de café por la noche</string>
+    <string name="art2_year">1888</string>
+    <string name="art3_name">Los Girasoles</string>
+    <string name="art3_year">1888</string>
+    <string name="art4_name">Autorretrato con la oreja vendada</string>
+    <string name="art4_year">1889</string>
+    <string name="art5_name">Cabeza de campesina con gorra blanca</string>
+    <string name="art5_year">1885</string>
+    <string name="art6_name">Noche estrellada sobre el Ródano</string>
+    <string name="art6_year">1888</string>
+    <string name="art7_name">Autorretrato dedicado a Gauguin</string>
+    <string name="art7_year">1888</string>
+    <string name="art8_name">Calavera con un cigarrillo</string>
+    <string name="art8_year">1885-1886</string>
+    <string name="art9_name">Silla con pipa</string>
+    <string name="art9_year">1888</string>
+</resources>
